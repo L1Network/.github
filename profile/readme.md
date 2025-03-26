@@ -1,5 +1,3 @@
-# L1Network
-
 Welcome to L1Network, a high-performance, non-profit blockchain initiative by [BitCash](https://bitcash.org).
 
 L1Network is dedicated to providing a robust and scalable blockchain solution that prioritizes security, efficiency, and accessibility. Our mission is to empower developers and users with cutting-edge blockchain technology.
